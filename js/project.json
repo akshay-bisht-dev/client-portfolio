@@ -4,27 +4,27 @@
         "title": "Squarebagel Project",
         "skills": "Html and CSS",
         "url": "https://akshay-bisht-dev.github.io/squarebagel/",
-        "image": "../images/squarebagel.png"
+        "image": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1698773967/nm-portfolio/r9jwwp3g7frf3odmpbo5.png"
     },
     {
         "id": 2,
         "title": "Login Page",
         "skills": "Html and CSS",
         "url": "https://akshay-bisht-dev.github.io/login-form-using-html-css/",
-        "image": "../images/login-form.png"
+        "image": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1698773968/nm-portfolio/snhnd1cfzfnx4itcdssy.png"
     },
     {
         "id": 3,
         "title": "College Website Project",
         "skills": "Html and CSS",
         "url": "https://akshay-bisht-dev.github.io/sit-webx/",
-        "image": "../images/sit-webx.png"
+        "image": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1698773968/nm-portfolio/c6lcovpibqvl3jsf9khw.png"
     },
     {
         "id": 4,
         "title": "Coder AK Blog Project",
         "skills": "Bootstrap",
         "url": "https://akshay-bisht-dev.github.io/coder-ak-blog/",
-        "image": "../images/coder-ak-blog.png"
+        "image": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1698773968/nm-portfolio/mfzkiqnlmwib0ruqqwmb.png"
     }
 ]
