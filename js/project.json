@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Squarebagel Project",
+        "skills": "Html and CSS",
+        "url": "https://akshay-bisht-dev.github.io/squarebagel/",
+        "image": "../images/squarebagel.png"
+    },
+    {
+        "id": 2,
+        "title": "Login Page",
+        "skills": "Html and CSS",
+        "url": "https://akshay-bisht-dev.github.io/login-form-using-html-css/",
+        "image": "../images/login-form.png"
+    },
+    {
+        "id": 3,
+        "title": "College Website Project",
+        "skills": "Html and CSS",
+        "url": "https://akshay-bisht-dev.github.io/sit-webx/",
+        "image": "../images/sit-webx.png"
+    },
+    {
+        "id": 4,
+        "title": "Coder AK Blog Project",
+        "skills": "Bootstrap",
+        "url": "https://akshay-bisht-dev.github.io/coder-ak-blog/",
+        "image": "../images/coder-ak-blog.png"
+    }
+]
